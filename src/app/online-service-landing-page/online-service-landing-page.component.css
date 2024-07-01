@@ -1,0 +1,56 @@
+.landing-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 3em;
+    color: #333;
+  }
+  
+  header p {
+    font-size: 1.5em;
+    color: #666;
+  }
+  
+  .services {
+    margin: 20px 0;
+  }
+  
+  .services h2 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .service {
+    margin: 20px 0;
+  }
+  
+  .service h3 {
+    font-size: 1.5em;
+    color: #555;
+  }
+  
+  .service p {
+    font-size: 1em;
+    color: #777;
+  }
+  
+  footer {
+    margin-top: 40px;
+    padding: 20px 0;
+    background-color: #f8f9fa;
+  }
+  
+  footer p {
+    margin: 0;
+    color: #999;
+  }
